@@ -1,4 +1,4 @@
 export const add2 = (m, n, o) => {
-  console.log("pk add3");
+  console.log("pk add333");
   return m + n + o;
 };
